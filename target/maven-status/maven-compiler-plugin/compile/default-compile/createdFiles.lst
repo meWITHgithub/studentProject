@@ -1,0 +1,7 @@
+ir\maktab\api\StudentResources.class
+ir\maktab\entities\Student.class
+ir\maktab\managers\Manager.class
+ir\maktab\dao\Dao.class
+ir\maktab\managers\StudentManager.class
+ir\maktab\dao\StudentDao.class
+ir\maktab\dao\DaoImp.class
